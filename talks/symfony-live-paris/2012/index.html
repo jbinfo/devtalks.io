@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+    <link href="http://gmpg.org/xfn/11" rel="profile">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <!-- Enable responsiveness on mobile devices-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <title>
+        
+            Talks Symfony Live Paris 2012 Talks &middot; devtalks.io
+        
+    </title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/public/css/poole.css">
+    <link rel="stylesheet" href="/public/css/syntax.css">
+    <link rel="stylesheet" href="/public/css/lanyon.css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/public/favicon.ico">
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body>
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/about.html">About</a>
+        
+      
+    
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+
+    <a class="sidebar-nav-item" href="https://github.com/poole/lanyon/archive/v1.0.0.zip">Download</a>
+    <a class="sidebar-nav-item" href="https://github.com/poole/lanyon">GitHub project</a>
+    <span class="sidebar-nav-item">Currently v1.0.0</span>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; 2014. All rights reserved.
+    </p>
+  </div>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">devtalks.io</a>
+            <small>Place for all developers talks</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        
+
+<div class="row category-homepage">
+    <div class="col-lg-12">
+        <h1 class="category">Talks Symfony Live Paris 2012 Talks</h1>
+        
+    <ul class="related-posts">
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/what-mom-never-told-you-about-bundle-configurations.html">
+                            What mom never told you about Bundle configurations 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/what-do-i-get-from-the-full-stack-framework.html">
+                            What do I get from the full stack framework? 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/wetter-com-relaunch-with-symfony2-assetic-varnish-and-twig.html">
+                            wetter.com - Relaunch with symfony2, Assetic, Varnish and Twig 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/using-mongodb-responsibly.html">
+                            Using MongoDB responsibly 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/twig-js-the-templating-engine-for-the-client-side.html">
+                            twig.js: The Templating Engine for the Client-Side 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/there-is-a-bundle-for-that.html">
+                            There is a Bundle for that 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/symfony2-meets-drupal-8.html">
+                            Symfony2 meets Drupal 8
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/symfony2-components-to-the-rescue-of-your-php-projects.html">
+                            Symfony2 components to the rescue of your PHP projects 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/symfony2-cmf.html">
+                            Symfony2 CMF
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/security-in-real-life.html">
+                             Security: In Real Life 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/realtime-web-apps-with-websockets.html">
+                            Realtime Web Apps with WebSockets 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/php-developers-what-can-postgresql-do-for-you.html">
+                            PHP developers, what can Postgresql do for you ? 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/orms-don-t-kill-your-database-developers-do.html">
+                            ORMs don't kill your database, developers do! 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/l-utilisation-de-symfony2-chez-overblog.html">
+                            L'utilisation de Symfony2 chez Overblog 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/how-we-built-the-new-responsive-bbc-news-site.html">
+                            How we built the new responsive BBC News site 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/designing-http-interfaces-and-restful-web-services.html">
+                            Designing HTTP Interfaces and RESTful Web Services 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/dependency-management-with-composer.html">
+                            Dependency Management with Composer 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/decoupling-content-management-with-create-and-phpcr.html">
+                            Decoupling Content Management with Create and PHPCR 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/behat-by-example-behat-best-practices.html">
+                            Behat by example (Behat best practices) 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/advanced-silex.html">
+                            Advanced Silex 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-paris/2012/advanced-service-container-utilization.html">
+                            Advanced Service Container Utilization 
+                            <small>06 Jun 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+  </ul>
+
+    <!--<ul class="posts list-group">
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/what-mom-never-told-you-about-bundle-configurations.html">
+                        <img alt="What mom never told you about Bundle configurations " data-original="//i1.ytimg.com/vi/kS9JXoVLk_k/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>What mom never told you about Bundle configurations </h3>
+                    </a>
+                    <p><small>by Dennis Benkert <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/what-do-i-get-from-the-full-stack-framework.html">
+                        <img alt="What do I get from the full stack framework? " data-original="//i1.ytimg.com/vi/_wg7uYsp0cQ/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>What do I get from the full stack framework? </h3>
+                    </a>
+                    <p><small>by Richard Miller <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/wetter-com-relaunch-with-symfony2-assetic-varnish-and-twig.html">
+                        <img alt="wetter.com - Relaunch with symfony2, Assetic, Varnish and Twig " data-original="//i1.ytimg.com/vi/dgF0bwQ9SkU/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>wetter.com - Relaunch with symfony2, Assetic, Varnish and Twig </h3>
+                    </a>
+                    <p><small>by Gaylord Aulke <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/using-mongodb-responsibly.html">
+                        <img alt="Using MongoDB responsibly " data-original="//i1.ytimg.com/vi/8F00NUIo2Eg/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Using MongoDB responsibly </h3>
+                    </a>
+                    <p><small>by Jeremy Mikola <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/twig-js-the-templating-engine-for-the-client-side.html">
+                        <img alt="twig.js: The Templating Engine for the Client-Side " data-original="//i1.ytimg.com/vi/ENtp3m-Lnk8/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>twig.js: The Templating Engine for the Client-Side </h3>
+                    </a>
+                    <p><small>by Johannes S <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/there-is-a-bundle-for-that.html">
+                        <img alt="There is a Bundle for that " data-original="//i1.ytimg.com/vi/0SJ3XcYWAi8/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>There is a Bundle for that </h3>
+                    </a>
+                    <p><small>by Christophe Coevoet <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/symfony2-meets-drupal-8.html">
+                        <img alt="Symfony2 meets Drupal 8" data-original="//i1.ytimg.com/vi/PfqsRhwzt70/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Symfony2 meets Drupal 8</h3>
+                    </a>
+                    <p><small>by Larry Garfield <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/symfony2-components-to-the-rescue-of-your-php-projects.html">
+                        <img alt="Symfony2 components to the rescue of your PHP projects " data-original="//i1.ytimg.com/vi/WlwMlWQR0AU/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Symfony2 components to the rescue of your PHP projects </h3>
+                    </a>
+                    <p><small>by Xavier Lacot <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/symfony2-cmf.html">
+                        <img alt="Symfony2 CMF" data-original="//i1.ytimg.com/vi/C2KjCuOnwIk/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Symfony2 CMF</h3>
+                    </a>
+                    <p><small>by Lukas Kahwe Smith <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/security-in-real-life.html">
+                        <img alt=" Security: In Real Life " data-original="//i1.ytimg.com/vi/lSxgEK8WKGA/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3> Security: In Real Life </h3>
+                    </a>
+                    <p><small>by Johannes S <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/realtime-web-apps-with-websockets.html">
+                        <img alt="Realtime Web Apps with WebSockets " data-original="//i1.ytimg.com/vi/Y9q_uID1vMY/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Realtime Web Apps with WebSockets </h3>
+                    </a>
+                    <p><small>by Igor Wiedler <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/php-developers-what-can-postgresql-do-for-you.html">
+                        <img alt="PHP developers, what can Postgresql do for you ? " data-original="//i1.ytimg.com/vi/qoP4oYFx4Y0/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>PHP developers, what can Postgresql do for you ? </h3>
+                    </a>
+                    <p><small>by Grégoire Hubert <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/orms-don-t-kill-your-database-developers-do.html">
+                        <img alt="ORMs don't kill your database, developers do! " data-original="//i1.ytimg.com/vi/BdO4xz64VjQ/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>ORMs don't kill your database, developers do! </h3>
+                    </a>
+                    <p><small>by Guilherme Blanco <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/l-utilisation-de-symfony2-chez-overblog.html">
+                        <img alt="L'utilisation de Symfony2 chez Overblog " data-original="//i1.ytimg.com/vi/LDdo8akcZnk/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>L'utilisation de Symfony2 chez Overblog </h3>
+                    </a>
+                    <p><small>by Xavier HAUSHERR <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/how-we-built-the-new-responsive-bbc-news-site.html">
+                        <img alt="How we built the new responsive BBC News site " data-original="//i1.ytimg.com/vi/YXDOdDRC4ac/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>How we built the new responsive BBC News site </h3>
+                    </a>
+                    <p><small>by John Cleveley <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/designing-http-interfaces-and-restful-web-services.html">
+                        <img alt="Designing HTTP Interfaces and RESTful Web Services " data-original="//i1.ytimg.com/vi/XzgCzjMdvRE/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Designing HTTP Interfaces and RESTful Web Services </h3>
+                    </a>
+                    <p><small>by David Zuelke <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/dependency-management-with-composer.html">
+                        <img alt="Dependency Management with Composer " data-original="//i1.ytimg.com/vi/9A4XrB5g0fk/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Dependency Management with Composer </h3>
+                    </a>
+                    <p><small>by Jordi Boggiano <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/decoupling-content-management-with-create-and-phpcr.html">
+                        <img alt="Decoupling Content Management with Create and PHPCR " data-original="//i1.ytimg.com/vi/dVFKgWL_TD8/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Decoupling Content Management with Create and PHPCR </h3>
+                    </a>
+                    <p><small>by Henri Bergius <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/behat-by-example-behat-best-practices.html">
+                        <img alt="Behat by example (Behat best practices) " data-original="//i1.ytimg.com/vi/QnPmbQbsTV0/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Behat by example (Behat best practices) </h3>
+                    </a>
+                    <p><small>by Konstantin Kudryashov <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/advanced-silex.html">
+                        <img alt="Advanced Silex " data-original="//i1.ytimg.com/vi/NRJbhTa-iag/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Advanced Silex </h3>
+                    </a>
+                    <p><small>by Igor Wiedler <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-paris/2012/advanced-service-container-utilization.html">
+                        <img alt="Advanced Service Container Utilization " data-original="//i1.ytimg.com/vi/hSMMMQ7iXf8/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Advanced Service Container Utilization </h3>
+                    </a>
+                    <p><small>by Richard Miller <br /> on <a href="/talks/symfony-live-paris/2012" title="Symfony Live Paris 2012">Symfony Live Paris 2012</a></small></p>
+                </li>
+            
+        
+    </ul>-->
+
+    </div>
+</div>
+
+
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+  </body>
+</html>

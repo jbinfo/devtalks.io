@@ -1,0 +1,842 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+
+  <head>
+    <link href="http://gmpg.org/xfn/11" rel="profile">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <!-- Enable responsiveness on mobile devices-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+    <title>
+        
+            Talks Symfony Live San Francisco 2012 Talks &middot; devtalks.io
+        
+    </title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="/public/css/poole.css">
+    <link rel="stylesheet" href="/public/css/syntax.css">
+    <link rel="stylesheet" href="/public/css/lanyon.css">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700|PT+Sans:400">
+
+    <!-- Icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+    <link rel="shortcut icon" href="/public/favicon.ico">
+
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+</head>
+
+
+  <body>
+
+    <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.</p>
+  </div>
+
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item" href="/">Home</a>
+
+    
+
+    
+    
+      
+        
+      
+    
+      
+        
+          <a class="sidebar-nav-item" href="/about.html">About</a>
+        
+      
+    
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+
+    <a class="sidebar-nav-item" href="https://github.com/poole/lanyon/archive/v1.0.0.zip">Download</a>
+    <a class="sidebar-nav-item" href="https://github.com/poole/lanyon">GitHub project</a>
+    <span class="sidebar-nav-item">Currently v1.0.0</span>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; 2014. All rights reserved.
+    </p>
+  </div>
+</div>
+
+
+    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+         content to avoid any CSS collisions with our real content. -->
+    <div class="wrap">
+      <div class="masthead">
+        <div class="container">
+          <h3 class="masthead-title">
+            <a href="/" title="Home">devtalks.io</a>
+            <small>Place for all developers talks</small>
+          </h3>
+        </div>
+      </div>
+
+      <div class="container content">
+        
+
+<div class="row category-homepage">
+    <div class="col-lg-12">
+        <h1 class="category">Talks Symfony Live San Francisco 2012 Talks</h1>
+        
+    <ul class="related-posts">
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-san-francisco/2012/what-mom-never-told-you-about-bundle-configurations.html">
+                            What mom never told you about Bundle configurations 
+                            <small>26 Sep 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-san-francisco/2012/the-wonderful-world-of-the-symfony-components-and-composer.html">
+                            The Wonderful World of the Symfony Components and Composer 
+                            <small>26 Sep 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-san-francisco/2012/symfony2-search-engine-propelled-by-solr.html">
+                            Symfony2 search engine propelled by Solr 
+                            <small>26 Sep 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-san-francisco/2012/symfony2-meets-drupal-8.html">
+                            Symfony2 meets Drupal 8 
+                            <small>26 Sep 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-san-francisco/2012/symfony2-form-tricks.html">
+                            Symfony2 Form Tricks
+                            <small>26 Sep 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-san-francisco/2012/silex-from-micro-to-full-stack.html">
+                            Silex: From Micro to Full Stack
+                            <small>26 Sep 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-san-francisco/2012/leveraging-the-serializer-component.html">
+                            Leveraging the Serializer Component
+                            <small>26 Sep 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-san-francisco/2012/in-depth-with-composer.html">
+                            In-Depth with Composer 
+                            <small>26 Sep 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-san-francisco/2012/fabien-potencier-keynote.html">
+                            Keynote
+                            <small>26 Sep 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-san-francisco/2012/designing-http-interfaces-and-restful-web-services.html">
+                            Designing HTTP Interfaces and RESTful Web Services 
+                            <small>26 Sep 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+                <li>
+                    <h3>
+                        <a href="/talks/symfony-live-san-francisco/2012/being-a-good-oss-contributor.html">
+                            What mom never told you about Bundle configurations 
+                            <small>26 Sep 2012</small>
+                        </a>
+                    </h3>
+                </li>
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+  </ul>
+
+    <!--<ul class="posts list-group">
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-san-francisco/2012/what-mom-never-told-you-about-bundle-configurations.html">
+                        <img alt="What mom never told you about Bundle configurations " data-original="//i1.ytimg.com/vi/jcIQ--zzsI8/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>What mom never told you about Bundle configurations </h3>
+                    </a>
+                    <p><small>by Dennis Benkert <br /> on <a href="/talks/symfony-live-san-francisco/2012" title="Symfony Live San Francisco 2012">Symfony Live San Francisco 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-san-francisco/2012/the-wonderful-world-of-the-symfony-components-and-composer.html">
+                        <img alt="The Wonderful World of the Symfony Components and Composer " data-original="//i1.ytimg.com/vi/0RGW4TyN5hk/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>The Wonderful World of the Symfony Components and Composer </h3>
+                    </a>
+                    <p><small>by Ryan Weaver <br /> on <a href="/talks/symfony-live-san-francisco/2012" title="Symfony Live San Francisco 2012">Symfony Live San Francisco 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-san-francisco/2012/symfony2-search-engine-propelled-by-solr.html">
+                        <img alt="Symfony2 search engine propelled by Solr " data-original="//i1.ytimg.com/vi/DFj1uvChWbY/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Symfony2 search engine propelled by Solr </h3>
+                    </a>
+                    <p><small>by Xavier Briand <br /> on <a href="/talks/symfony-live-san-francisco/2012" title="Symfony Live San Francisco 2012">Symfony Live San Francisco 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-san-francisco/2012/symfony2-meets-drupal-8.html">
+                        <img alt="Symfony2 meets Drupal 8 " data-original="//i1.ytimg.com/vi/lRaw5YLdEqI/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Symfony2 meets Drupal 8 </h3>
+                    </a>
+                    <p><small>by Larry Garfield <br /> on <a href="/talks/symfony-live-san-francisco/2012" title="Symfony Live San Francisco 2012">Symfony Live San Francisco 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-san-francisco/2012/symfony2-form-tricks.html">
+                        <img alt="Symfony2 Form Tricks" data-original="//i1.ytimg.com/vi/JAX13g5orwo/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Symfony2 Form Tricks</h3>
+                    </a>
+                    <p><small>by Bernhard Schussek <br /> on <a href="/talks/symfony-live-san-francisco/2012" title="Symfony Live San Francisco 2012">Symfony Live San Francisco 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-san-francisco/2012/silex-from-micro-to-full-stack.html">
+                        <img alt="Silex: From Micro to Full Stack" data-original="//i1.ytimg.com/vi/miPafERrqT8/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Silex: From Micro to Full Stack</h3>
+                    </a>
+                    <p><small>by Dustin Whittle <br /> on <a href="/talks/symfony-live-san-francisco/2012" title="Symfony Live San Francisco 2012">Symfony Live San Francisco 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-san-francisco/2012/leveraging-the-serializer-component.html">
+                        <img alt="Leveraging the Serializer Component" data-original="//i1.ytimg.com/vi/3m3-1Xt9uGE/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Leveraging the Serializer Component</h3>
+                    </a>
+                    <p><small>by Hugo Hamon <br /> on <a href="/talks/symfony-live-san-francisco/2012" title="Symfony Live San Francisco 2012">Symfony Live San Francisco 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-san-francisco/2012/in-depth-with-composer.html">
+                        <img alt="In-Depth with Composer " data-original="//i1.ytimg.com/vi/P3NwF8RV1lY/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>In-Depth with Composer </h3>
+                    </a>
+                    <p><small>by Jordi Boggiano <br /> on <a href="/talks/symfony-live-san-francisco/2012" title="Symfony Live San Francisco 2012">Symfony Live San Francisco 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-san-francisco/2012/fabien-potencier-keynote.html">
+                        <img alt="Keynote" data-original="//i1.ytimg.com/vi/UOWIUapx-HM/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Keynote</h3>
+                    </a>
+                    <p><small>by Fabien Potencier <br /> on <a href="/talks/symfony-live-san-francisco/2012" title="Symfony Live San Francisco 2012">Symfony Live San Francisco 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-san-francisco/2012/designing-http-interfaces-and-restful-web-services.html">
+                        <img alt="Designing HTTP Interfaces and RESTful Web Services " data-original="//i1.ytimg.com/vi/NEWTPFzt2-E/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>Designing HTTP Interfaces and RESTful Web Services </h3>
+                    </a>
+                    <p><small>by David Zuelke <br /> on <a href="/talks/symfony-live-san-francisco/2012" title="Symfony Live San Francisco 2012">Symfony Live San Francisco 2012</a></small></p>
+                </li>
+            
+        
+            
+                <li class="list-group-item">
+                    <a href="/talks/symfony-live-san-francisco/2012/being-a-good-oss-contributor.html">
+                        <img alt="What mom never told you about Bundle configurations " data-original="//i1.ytimg.com/vi/jcIQ--zzsI8/default.jpg" src="//i1.ytimg.com/vi/default.jpg" align="right" class="lazy img-thumbnail" />
+                        <h3>What mom never told you about Bundle configurations </h3>
+                    </a>
+                    <p><small>by Dennis Benkert <br /> on <a href="/talks/symfony-live-san-francisco/2012" title="Symfony Live San Francisco 2012">Symfony Live San Francisco 2012</a></small></p>
+                </li>
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    </ul>-->
+
+    </div>
+</div>
+
+
+
+      </div>
+    </div>
+
+    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
+
+  </body>
+</html>

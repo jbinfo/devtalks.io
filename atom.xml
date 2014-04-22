@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>devtalks.io</title>
+ <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://lanyon.getpoole.com/"/>
+ <updated>2014-04-21T16:13:44+01:00</updated>
+ <id>http://lanyon.getpoole.com</id>
+ <author>
+   <name>Mark Otto</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Show, Don't Tell</title>
+   <link href="http://lanyon.getpoole.com/talks/oreilly-media-fluent/2013/show-dont-tell.html"/>
+   <updated>2013-03-11T00:00:00+00:00</updated>
+   <id>http://lanyon.getpoole.com/talks/oreilly-media-fluent/2013/show-dont-tell</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>JavaScript Authoring Tooling</title>
+   <link href="http://lanyon.getpoole.com/talks/oreilly-media-fluent/2013/javascript-authoring-tooling.html"/>
+   <updated>2013-03-11T00:00:00+00:00</updated>
+   <id>http://lanyon.getpoole.com/talks/oreilly-media-fluent/2013/javascript-authoring-tooling</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Everything You Always Wanted to Know About Web Standards</title>
+   <link href="http://lanyon.getpoole.com/talks/oreilly-media-fluent/2013/everything-you-always-wanted-to-know-about-web-standards.html"/>
+   <updated>2013-03-11T00:00:00+00:00</updated>
+   <id>http://lanyon.getpoole.com/talks/oreilly-media-fluent/2013/everything-you-always-wanted-to-know-about-web-standards</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>What mom never told you about Bundle configurations </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/what-mom-never-told-you-about-bundle-configurations.html"/>
+   <updated>2012-09-26T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/what-mom-never-told-you-about-bundle-configurations</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The Wonderful World of the Symfony Components and Composer </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/the-wonderful-world-of-the-symfony-components-and-composer.html"/>
+   <updated>2012-09-26T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/the-wonderful-world-of-the-symfony-components-and-composer</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Symfony2 search engine propelled by Solr </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/symfony2-search-engine-propelled-by-solr.html"/>
+   <updated>2012-09-26T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/symfony2-search-engine-propelled-by-solr</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Symfony2 meets Drupal 8 </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/symfony2-meets-drupal-8.html"/>
+   <updated>2012-09-26T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/symfony2-meets-drupal-8</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Symfony2 Form Tricks</title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/symfony2-form-tricks.html"/>
+   <updated>2012-09-26T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/symfony2-form-tricks</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Silex: From Micro to Full Stack</title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/silex-from-micro-to-full-stack.html"/>
+   <updated>2012-09-26T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/silex-from-micro-to-full-stack</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Leveraging the Serializer Component</title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/leveraging-the-serializer-component.html"/>
+   <updated>2012-09-26T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/leveraging-the-serializer-component</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>In-Depth with Composer </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/in-depth-with-composer.html"/>
+   <updated>2012-09-26T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/in-depth-with-composer</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Keynote</title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/fabien-potencier-keynote.html"/>
+   <updated>2012-09-26T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/fabien-potencier-keynote</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Designing HTTP Interfaces and RESTful Web Services </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/designing-http-interfaces-and-restful-web-services.html"/>
+   <updated>2012-09-26T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/designing-http-interfaces-and-restful-web-services</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>What mom never told you about Bundle configurations </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/being-a-good-oss-contributor.html"/>
+   <updated>2012-09-26T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/being-a-good-oss-contributor</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Symfony2's descent into phpDocumentor2</title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-london/2012/symfony2s-descent-into-phpdocumentor2.html"/>
+   <updated>2012-09-13T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-london/2012/symfony2s-descent-into-phpdocumentor2</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Symfony2 on Amazon Web Services</title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-london/2012/symfony2-on-amazon-web-services.html"/>
+   <updated>2012-09-13T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-london/2012/symfony2-on-amazon-web-services</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Symfony, what's next?</title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-london/2012/symfony-whats-next.html"/>
+   <updated>2012-09-13T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-london/2012/symfony-whats-next</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Secrets of Building & Participating in OSS Communities</title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-london/2012/silex-from-micro-to-full-stack.html"/>
+   <updated>2012-09-13T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-london/2012/silex-from-micro-to-full-stack</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Silex Anatomy</title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-london/2012/silex-anatomy.html"/>
+   <updated>2012-09-13T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-london/2012/silex-anatomy</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>In-Depth with Composer (video)</title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-london/2012/in-depth-with-composer.html"/>
+   <updated>2012-09-13T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-london/2012/in-depth-with-composer</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Effective Code Reviews</title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-london/2012/effective-code-reviews.html"/>
+   <updated>2012-09-13T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-london/2012/effective-code-reviews</id>
+   <content type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/14286582&quot; width=&quot;512&quot; height=&quot;421&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://fr.slideshare.net/proofek/effective-code-reviews&quot; title=&quot;Effective code reviews&quot; target=&quot;_blank&quot;&gt;Effective code reviews&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/proofek&quot; target=&quot;_blank&quot;&gt;Sebastian Marek&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt; &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Drupal 8</title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-london/2012/drupal-8.html"/>
+   <updated>2012-09-13T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-london/2012/drupal-8</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>What mom never told you about Bundle configurations </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/what-mom-never-told-you-about-bundle-configurations.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/what-mom-never-told-you-about-bundle-configurations</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>What do I get from the full stack framework? </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/what-do-i-get-from-the-full-stack-framework.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/what-do-i-get-from-the-full-stack-framework</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>wetter.com - Relaunch with symfony2, Assetic, Varnish and Twig </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/wetter-com-relaunch-with-symfony2-assetic-varnish-and-twig.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/wetter-com-relaunch-with-symfony2-assetic-varnish-and-twig</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Using MongoDB responsibly </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/using-mongodb-responsibly.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/using-mongodb-responsibly</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>twig.js: The Templating Engine for the Client-Side </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/twig-js-the-templating-engine-for-the-client-side.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/twig-js-the-templating-engine-for-the-client-side</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>There is a Bundle for that </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/there-is-a-bundle-for-that.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/there-is-a-bundle-for-that</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Symfony2 meets Drupal 8</title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/symfony2-meets-drupal-8.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/symfony2-meets-drupal-8</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Symfony2 components to the rescue of your PHP projects </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/symfony2-components-to-the-rescue-of-your-php-projects.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/symfony2-components-to-the-rescue-of-your-php-projects</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Symfony2 CMF</title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/symfony2-cmf.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/symfony2-cmf</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title> Security: In Real Life </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/security-in-real-life.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/security-in-real-life</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Realtime Web Apps with WebSockets </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/realtime-web-apps-with-websockets.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/realtime-web-apps-with-websockets</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>PHP developers, what can Postgresql do for you ? </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/php-developers-what-can-postgresql-do-for-you.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/php-developers-what-can-postgresql-do-for-you</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>ORMs don't kill your database, developers do! </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/orms-don-t-kill-your-database-developers-do.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/orms-don-t-kill-your-database-developers-do</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>L'utilisation de Symfony2 chez Overblog </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/l-utilisation-de-symfony2-chez-overblog.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/l-utilisation-de-symfony2-chez-overblog</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>How we built the new responsive BBC News site </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/how-we-built-the-new-responsive-bbc-news-site.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/how-we-built-the-new-responsive-bbc-news-site</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Designing HTTP Interfaces and RESTful Web Services </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/designing-http-interfaces-and-restful-web-services.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/designing-http-interfaces-and-restful-web-services</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Dependency Management with Composer </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/dependency-management-with-composer.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/dependency-management-with-composer</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Decoupling Content Management with Create and PHPCR </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/decoupling-content-management-with-create-and-phpcr.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/decoupling-content-management-with-create-and-phpcr</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Behat by example (Behat best practices) </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/behat-by-example-behat-best-practices.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/behat-by-example-behat-best-practices</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Advanced Silex </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/advanced-silex.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/advanced-silex</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Advanced Service Container Utilization </title>
+   <link href="http://lanyon.getpoole.com/talks/symfony-live-paris/2012/advanced-service-container-utilization.html"/>
+   <updated>2012-06-06T01:00:00+01:00</updated>
+   <id>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/advanced-service-container-utilization</id>
+   <content type="html"></content>
+ </entry>
+ 
+
+</feed>
