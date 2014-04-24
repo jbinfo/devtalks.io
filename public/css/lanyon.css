@@ -163,6 +163,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* Sidebar content */
+.sidebar .sitename {
+  color: rgba(255,255,255,.6);
+}
 .sidebar a {
   font-weight: normal;
   color: #fff;

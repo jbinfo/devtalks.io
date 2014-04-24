@@ -2,262 +2,250 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/advanced-service-container-utilization.html
+            http://devtalks.io/talks/symfony-live-paris/2012/advanced-service-container-utilization.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
-        <loc>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/advanced-silex.html</loc>
+        <loc>http://devtalks.io/talks/symfony-live-paris/2012/advanced-silex.html</loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/behat-by-example-behat-best-practices.html
-        </loc>
-        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/decoupling-content-management-with-create-and-phpcr.html
+            http://devtalks.io/talks/symfony-live-paris/2012/behat-by-example-behat-best-practices.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/dependency-management-with-composer.html
+            http://devtalks.io/talks/symfony-live-paris/2012/decoupling-content-management-with-create-and-phpcr.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/designing-http-interfaces-and-restful-web-services.html
+            http://devtalks.io/talks/symfony-live-paris/2012/dependency-management-with-composer.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/how-we-built-the-new-responsive-bbc-news-site.html
+            http://devtalks.io/talks/symfony-live-paris/2012/designing-http-interfaces-and-restful-web-services.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/l-utilisation-de-symfony2-chez-overblog.html
+            http://devtalks.io/talks/symfony-live-paris/2012/how-we-built-the-new-responsive-bbc-news-site.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/orms-don-t-kill-your-database-developers-do.html
+            http://devtalks.io/talks/symfony-live-paris/2012/l-utilisation-de-symfony2-chez-overblog.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/php-developers-what-can-postgresql-do-for-you.html
+            http://devtalks.io/talks/symfony-live-paris/2012/orms-don-t-kill-your-database-developers-do.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/realtime-web-apps-with-websockets.html
+            http://devtalks.io/talks/symfony-live-paris/2012/php-developers-what-can-postgresql-do-for-you.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/security-in-real-life.html
+            http://devtalks.io/talks/symfony-live-paris/2012/realtime-web-apps-with-websockets.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
-        <loc>http://lanyon.getpoole.com/talks/symfony-live-paris/2012/symfony2-cmf.html</loc>
+        <loc>http://devtalks.io/talks/symfony-live-paris/2012/security-in-real-life.html</loc>
+        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://devtalks.io/talks/symfony-live-paris/2012/symfony2-cmf.html</loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/symfony2-components-to-the-rescue-of-your-php-projects.html
+            http://devtalks.io/talks/symfony-live-paris/2012/symfony2-components-to-the-rescue-of-your-php-projects.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
-        <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/symfony2-meets-drupal-8.html
-        </loc>
+        <loc>http://devtalks.io/talks/symfony-live-paris/2012/symfony2-meets-drupal-8.html</loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/there-is-a-bundle-for-that.html
-        </loc>
-        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/twig-js-the-templating-engine-for-the-client-side.html
+            http://devtalks.io/talks/symfony-live-paris/2012/there-is-a-bundle-for-that.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/using-mongodb-responsibly.html
+            http://devtalks.io/talks/symfony-live-paris/2012/twig-js-the-templating-engine-for-the-client-side.html
+        </loc>
+        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://devtalks.io/talks/symfony-live-paris/2012/using-mongodb-responsibly.html</loc>
+        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://devtalks.io/talks/symfony-live-paris/2012/wetter-com-relaunch-with-symfony2-assetic-varnish-and-twig.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/wetter-com-relaunch-with-symfony2-assetic-varnish-and-twig.html
+            http://devtalks.io/talks/symfony-live-paris/2012/what-do-i-get-from-the-full-stack-framework.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/what-do-i-get-from-the-full-stack-framework.html
+            http://devtalks.io/talks/symfony-live-paris/2012/what-mom-never-told-you-about-bundle-configurations.html
+        </loc>
+        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://devtalks.io/talks/symfony-live-london/2012/drupal-8.html</loc>
+        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://devtalks.io/talks/symfony-live-london/2012/effective-code-reviews.html</loc>
+        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://devtalks.io/talks/symfony-live-london/2012/in-depth-with-composer.html</loc>
+        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://devtalks.io/talks/symfony-live-london/2012/silex-anatomy.html</loc>
+        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://devtalks.io/talks/symfony-live-london/2012/silex-from-micro-to-full-stack.html
+        </loc>
+        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://devtalks.io/talks/symfony-live-london/2012/symfony-whats-next.html</loc>
+        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://devtalks.io/talks/symfony-live-london/2012/symfony2-on-amazon-web-services.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-paris/2012/what-mom-never-told-you-about-bundle-configurations.html
-        </loc>
-        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://lanyon.getpoole.com/talks/symfony-live-london/2012/drupal-8.html</loc>
-        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-london/2012/effective-code-reviews.html
+            http://devtalks.io/talks/symfony-live-london/2012/symfony2s-descent-into-phpdocumentor2.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-london/2012/in-depth-with-composer.html
-        </loc>
-        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://lanyon.getpoole.com/talks/symfony-live-london/2012/silex-anatomy.html</loc>
-        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-london/2012/silex-from-micro-to-full-stack.html
+            http://devtalks.io/talks/symfony-live-san-francisco/2012/being-a-good-oss-contributor.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-london/2012/symfony-whats-next.html
+            http://devtalks.io/talks/symfony-live-san-francisco/2012/designing-http-interfaces-and-restful-web-services.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-london/2012/symfony2-on-amazon-web-services.html
+            http://devtalks.io/talks/symfony-live-san-francisco/2012/fabien-potencier-keynote.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-london/2012/symfony2s-descent-into-phpdocumentor2.html
+            http://devtalks.io/talks/symfony-live-san-francisco/2012/in-depth-with-composer.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/being-a-good-oss-contributor.html
+            http://devtalks.io/talks/symfony-live-san-francisco/2012/leveraging-the-serializer-component.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/designing-http-interfaces-and-restful-web-services.html
+            http://devtalks.io/talks/symfony-live-san-francisco/2012/silex-from-micro-to-full-stack.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/fabien-potencier-keynote.html
+            http://devtalks.io/talks/symfony-live-san-francisco/2012/symfony2-form-tricks.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/in-depth-with-composer.html
+            http://devtalks.io/talks/symfony-live-san-francisco/2012/symfony2-meets-drupal-8.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/leveraging-the-serializer-component.html
+            http://devtalks.io/talks/symfony-live-san-francisco/2012/symfony2-search-engine-propelled-by-solr.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/silex-from-micro-to-full-stack.html
+            http://devtalks.io/talks/symfony-live-san-francisco/2012/the-wonderful-world-of-the-symfony-components-and-composer.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/symfony2-form-tricks.html
+            http://devtalks.io/talks/symfony-live-san-francisco/2012/what-mom-never-told-you-about-bundle-configurations.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/symfony2-meets-drupal-8.html
+            http://devtalks.io/talks/oreilly-media-fluent/2013/everything-you-always-wanted-to-know-about-web-standards.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
         <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/symfony2-search-engine-propelled-by-solr.html
+            http://devtalks.io/talks/oreilly-media-fluent/2013/javascript-authoring-tooling.html
         </loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
-        <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/the-wonderful-world-of-the-symfony-components-and-composer.html
-        </loc>
+        <loc>http://devtalks.io/talks/oreilly-media-fluent/2013/show-dont-tell.html</loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
-        <loc>
-            http://lanyon.getpoole.com/talks/symfony-live-san-francisco/2012/what-mom-never-told-you-about-bundle-configurations.html
-        </loc>
+        <loc>http://devtalks.io/404.html</loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
-        <loc>
-            http://lanyon.getpoole.com/talks/oreilly-media-fluent/2013/everything-you-always-wanted-to-know-about-web-standards.html
-        </loc>
+        <loc>http://devtalks.io/about.html</loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
     <url>
-        <loc>
-            http://lanyon.getpoole.com/talks/oreilly-media-fluent/2013/javascript-authoring-tooling.html
-        </loc>
-        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://lanyon.getpoole.com/talks/oreilly-media-fluent/2013/show-dont-tell.html</loc>
-        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://lanyon.getpoole.com/404.html</loc>
-        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://lanyon.getpoole.com/about.html</loc>
-        <lastmod>2014-04-22T19:48:52+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://lanyon.getpoole.com/</loc>
+        <loc>http://devtalks.io/</loc>
         <lastmod>2014-04-22T19:48:52+01:00</lastmod>
     </url>
 </urlset>
