@@ -4,13 +4,125 @@
  <title>devtalks.io</title>
  <link href="http://devtalks.io/atom.xml" rel="self"/>
  <link href="http://devtalks.io/"/>
- <updated>2014-04-24T23:27:56+01:00</updated>
+ <updated>2014-04-26T23:49:02+01:00</updated>
  <id>http://devtalks.io</id>
  <author>
-   <name>Mark Otto</name>
+   <name>Lhassan Baazzi</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Virtual Machines, JavaScript and Assembler</title>
+   <link href="http://devtalks.io/talks/oreilly-media-fluent/2014/virtual-machines-javascript-and-assembler.html"/>
+   <updated>2014-03-11T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/oreilly-media-fluent/2014/virtual-machines-javascript-and-assembler</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The Humble Border-Radius</title>
+   <link href="http://devtalks.io/talks/oreilly-media-fluent/2014/the-humble-border-radius.html"/>
+   <updated>2014-03-11T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/oreilly-media-fluent/2014/the-humble-border-radius</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>JavaScript Taking Both the High and Low Roads</title>
+   <link href="http://devtalks.io/talks/oreilly-media-fluent/2014/javascript-taking-both-the-high-and-low-roads.html"/>
+   <updated>2014-03-11T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/oreilly-media-fluent/2014/javascript-taking-both-the-high-and-low-roads</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Delivering the goods</title>
+   <link href="http://devtalks.io/talks/oreilly-media-fluent/2014/delivering-the-goods.html"/>
+   <updated>2014-03-11T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/oreilly-media-fluent/2014/delivering-the-goods</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>How Kris Writes Symfony Apps</title>
+   <link href="http://devtalks.io/talks/symfonycon-warsaw/2013/how-kris-writes-symfony-apps.html"/>
+   <updated>2013-12-10T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/symfonycon-warsaw/2013/how-kris-writes-symfony-apps</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Fabien Potencier - Keynote</title>
+   <link href="http://devtalks.io/talks/symfonycon-warsaw/2013/fabien-potencier-keynote.html"/>
+   <updated>2013-12-10T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/symfonycon-warsaw/2013/fabien-potencier-keynote</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Decouple your application </title>
+   <link href="http://devtalks.io/talks/symfonycon-warsaw/2013/decouple-your-application.html"/>
+   <updated>2013-12-10T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/symfonycon-warsaw/2013/decouple-your-application</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Cool like Frontend Developer: Grunt, RequireJS, Bower...</title>
+   <link href="http://devtalks.io/talks/symfonycon-warsaw/2013/cool-like-frontend-developer-grunt-requirejs-bower.html"/>
+   <updated>2013-12-10T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/symfonycon-warsaw/2013/cool-like-frontend-developer-grunt-requirejs-bower</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Community Building with Mentoring</title>
+   <link href="http://devtalks.io/talks/symfonycon-warsaw/2013/community-building-with-mentoring.html"/>
+   <updated>2013-12-10T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/symfonycon-warsaw/2013/community-building-with-mentoring</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Build Awesome REST APIs With Symfony2</title>
+   <link href="http://devtalks.io/talks/symfonycon-warsaw/2013/build-awesome-rest-apis-with-symfony2.html"/>
+   <updated>2013-12-10T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/symfonycon-warsaw/2013/build-awesome-rest-apis-with-symfony2</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Application monitoring with Heka and statsd</title>
+   <link href="http://devtalks.io/talks/symfonycon-warsaw/2013/application-monitoring-with-heka-and-statsd.html"/>
+   <updated>2013-12-10T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/symfonycon-warsaw/2013/application-monitoring-with-heka-and-statsd</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The Devops wonder</title>
+   <link href="http://devtalks.io/talks/symfony-live-berlin/2013/the-devops-wonder.html"/>
+   <updated>2013-11-07T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/symfony-live-berlin/2013/the-devops-wonder</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Performance Testing Checklist for Symfony2</title>
+   <link href="http://devtalks.io/talks/symfony-live-berlin/2013/performance-testing-checklist-for-symfony2.html"/>
+   <updated>2013-11-07T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/symfony-live-berlin/2013/performance-testing-checklist-for-symfony2</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>What's new in the Symfony world</title>
+   <link href="http://devtalks.io/talks/symfony-live-berlin/2013/fabien-potencier-whats-new-in-the-symfony-world.html"/>
+   <updated>2013-11-07T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/symfony-live-berlin/2013/fabien-potencier-whats-new-in-the-symfony-world</id>
+   <content type="html"></content>
+ </entry>
  
  <entry>
    <title>Show, Don't Tell</title>
@@ -113,14 +225,6 @@
    <link href="http://devtalks.io/talks/symfony-live-san-francisco/2012/designing-http-interfaces-and-restful-web-services.html"/>
    <updated>2012-09-26T01:00:00+01:00</updated>
    <id>http://devtalks.io/talks/symfony-live-san-francisco/2012/designing-http-interfaces-and-restful-web-services</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>What mom never told you about Bundle configurations </title>
-   <link href="http://devtalks.io/talks/symfony-live-san-francisco/2012/being-a-good-oss-contributor.html"/>
-   <updated>2012-09-26T01:00:00+01:00</updated>
-   <id>http://devtalks.io/talks/symfony-live-san-francisco/2012/being-a-good-oss-contributor</id>
    <content type="html"></content>
  </entry>
  
