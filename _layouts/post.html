@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="post">
+    <h3 class="event"><a href="{{ site.baseurl}}{{ page.categories|join:'/' }}/index.html">← {{ page.event }}</a></h3>
+    <h1 class="post-title">{{ page.authors|join(', ') }}: {{ page.title }}</h1>
+    <span class="post-date">{{ page.date | date_to_string }}</span>
+    {{ content }}
+    <!-- AddThis Button BEGIN -->
+    <div class="addthis_toolbox addthis_default_style ">
+        <a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
+        <a class="addthis_button_tweet"></a>
+        <a class="addthis_button_pinterest_pinit" pi:pinit:layout="horizontal"></a>
+        <a class="addthis_counter addthis_pill_style"></a>
+    </div>
+    <!-- AddThis Button END -->
+</div>
+
+<div class="related">
+    <h2>Related Posts</h2>
+    <ul class="related-posts">
+        {% for post in site.related_posts limit:site.nbers_related_posts %}
+            <li>
+                <h3>
+                    <a href="{{ post.url }}">
+                        {{ post.title }}
+                        <small>{{ post.date | date_to_string }}</small>
+                    </a>
+                </h3>
+            </li>
+        {% endfor %}
+    </ul>
+</div>
+
+<div class="related">
+    <h2>Comments</h2>
+    {% if site.enable_comment == true %}
+        <div class="row comments">
+            <div class="col-lg-12">
+                <div id="disqus_thread"></div>
+            </div>
+        </div>
+    {% endif %}
+</div>

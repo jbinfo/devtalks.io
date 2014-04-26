@@ -1,0 +1,56 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+#permalink:        pretty
+permalink: /:categories/:title.html
+
+# Setup
+title:            devtalks.io
+tagline:          'A place for all developers talks'
+description:      'A place for all developers talks'
+url:              http://devtalks.io
+
+author:
+    name:           'Lhassan Baazzi'
+    url:            https://twitter.com/baazzilhassan
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+    repository:
+        path: https://github.com/jbinfo/devtalks.io
+        new_issue_path: '%github.repository.path%/issues/new'
+        license:
+            type: MIT
+            path: '%github.repository.path%/blob/master/LICENSE'
+
+nbers_related_posts: 5
+
+enable_comment: true
+disqus_shortname: devtalksio 
+
+google_analytics:
+    id: UA-50282921-1
+    website: devtalks.io
+
+sitemap:
+    file: "/sitemap.xml"
+    exclude:
+        - "/atom.xml"
+        - "/feed.xml"
+        - "/feed/index.xml"
+    include_posts:
+        - "/index.html"
+    change_frequency_name: "change_frequency"
+    priority_name: "priority"
+
+jekyll-press:
+  exclude: 'atom.xml' 
+  js_options: {} 
+  css_options: {} 
+  html_options: {} 
