@@ -4,13 +4,237 @@
  <title>devtalks.io</title>
  <link href="http://devtalks.io/atom.xml" rel="self"/>
  <link href="http://devtalks.io/"/>
- <updated>2014-04-26T23:49:02+01:00</updated>
+ <updated>2014-04-28T19:31:35+01:00</updated>
  <id>http://devtalks.io</id>
  <author>
    <name>Lhassan Baazzi</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Which messaging layer should you use if you want to build</title>
+   <link href="http://devtalks.io/talks/pycon/2014/which-messaging-layer-should-you-use-if-you-want-to-build.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/which-messaging-layer-should-you-use-if-you-want-to-build</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Upgrade your Web Development Toolchain</title>
+   <link href="http://devtalks.io/talks/pycon/2014/upgrade-your-web-development-toolchain.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/upgrade-your-web-development-toolchain</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Turn Your Computer Into a Server</title>
+   <link href="http://devtalks.io/talks/pycon/2014/turn-your-computer-into-a-server.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/turn-your-computer-into-a-server</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The Young Coder: Let's Learn Python</title>
+   <link href="http://devtalks.io/talks/pycon/2014/the-young-coder-lets-learn-python.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/the-young-coder-lets-learn-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The State of Crypto in Python</title>
+   <link href="http://devtalks.io/talks/pycon/2014/the-state-of-crypto-in-python.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/the-state-of-crypto-in-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The Sorry State of SSL</title>
+   <link href="http://devtalks.io/talks/pycon/2014/the-sorry-state-of-ssl.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/the-sorry-state-of-ssl</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The Python Pipeline: Why you should reach out to local teachers</title>
+   <link href="http://devtalks.io/talks/pycon/2014/the-python-pipeline-why-you-should-reach-out-to-local-teachers.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/the-python-pipeline-why-you-should-reach-out-to-local-teachers</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Teaching Python: To Infinity and Beyond</title>
+   <link href="http://devtalks.io/talks/pycon/2014/teaching-python-to-infinity-and-beyond.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/teaching-python-to-infinity-and-beyond</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>So you want to be a full-stack developer? How to build a full-stack Py</title>
+   <link href="http://devtalks.io/talks/pycon/2014/so-you-want-to-be-a-full-stack-developer-how-to-build-a-full-stack-py.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/so-you-want-to-be-a-full-stack-developer-how-to-build-a-full-stack-py</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Search 101: An Introduction to Information Retrieval</title>
+   <link href="http://devtalks.io/talks/pycon/2014/search-101-an-introduction-to-information-retrieval.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/search-101-an-introduction-to-information-retrieval</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Python in the Browser: Intro to Brython</title>
+   <link href="http://devtalks.io/talks/pycon/2014/python-in-the-browser-intro-to-brython.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/python-in-the-browser-intro-to-brython</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Python + Geographic Data = BFFs</title>
+   <link href="http://devtalks.io/talks/pycon/2014/python-geographic-data-bffs.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/python-geographic-data-bffs</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Python for Social Scientists</title>
+   <link href="http://devtalks.io/talks/pycon/2014/python-for-social-scientists.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/python-for-social-scientists</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Introduction to SQLAlchemy</title>
+   <link href="http://devtalks.io/talks/pycon/2014/introduction-to-sqlalchemy.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/introduction-to-sqlalchemy</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Introduction to game programming</title>
+   <link href="http://devtalks.io/talks/pycon/2014/introduction-to-game-programming.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/introduction-to-game-programming</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Introduction to Docker</title>
+   <link href="http://devtalks.io/talks/pycon/2014/introduction-to-docker.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/introduction-to-docker</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Import-ant Decisions</title>
+   <link href="http://devtalks.io/talks/pycon/2014/import-ant-decisions.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/import-ant-decisions</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Hello Physical World: A Crash Course on the Internet of Things</title>
+   <link href="http://devtalks.io/talks/pycon/2014/hello-physical-world-a-crash-course-on-the-internet-of-things.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/hello-physical-world-a-crash-course-on-the-internet-of-things</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Getting Hy on Python: How to implement a Lisp front-end to Python</title>
+   <link href="http://devtalks.io/talks/pycon/2014/getting-hy-on-python-how-to-implement-a-lisp-front-end-to-python.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/getting-hy-on-python-how-to-implement-a-lisp-front-end-to-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Games for Science: Creating interactive psyc experiments</title>
+   <link href="http://devtalks.io/talks/pycon/2014/games-for-science-creating-interactive-psyc-experiments.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/games-for-science-creating-interactive-psyc-experiments</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Fast Python, Slow Python</title>
+   <link href="http://devtalks.io/talks/pycon/2014/fast-python-slow-python.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/fast-python-slow-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Dynamics and Control with Python</title>
+   <link href="http://devtalks.io/talks/pycon/2014/dynamics-and-control-with-python.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/dynamics-and-control-with-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Discovering Python</title>
+   <link href="http://devtalks.io/talks/pycon/2014/discovering-python.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/discovering-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Designing Django's Migrations</title>
+   <link href="http://devtalks.io/talks/pycon/2014/designing-djangos-migrations.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/designing-djangos-migrations</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Computer science fundamentals for self-taught programmers</title>
+   <link href="http://devtalks.io/talks/pycon/2014/computer-science-fundamentals-for-self-taught-programmers.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/computer-science-fundamentals-for-self-taught-programmers</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Castle Anthrax: Dungeon Generation Techniques</title>
+   <link href="http://devtalks.io/talks/pycon/2014/castle-anthrax-dungeon-generation-techniques.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/castle-anthrax-dungeon-generation-techniques</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Bayesian statistics made simple</title>
+   <link href="http://devtalks.io/talks/pycon/2014/bayesian-statistics-made-simple.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/bayesian-statistics-made-simple</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Advanced methods for creating decorators</title>
+   <link href="http://devtalks.io/talks/pycon/2014/advanced-methods-for-creating-decorators.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/advanced-methods-for-creating-decorators</id>
+   <content type="html"></content>
+ </entry>
  
  <entry>
    <title>Virtual Machines, JavaScript and Assembler</title>
