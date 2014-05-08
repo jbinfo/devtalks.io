@@ -4,7 +4,7 @@
  <title>devtalks.io</title>
  <link href="http://devtalks.io/atom.xml" rel="self"/>
  <link href="http://devtalks.io/"/>
- <updated>2014-05-08T01:51:11+01:00</updated>
+ <updated>2014-05-08T19:34:11+01:00</updated>
  <id>http://devtalks.io</id>
  <author>
    <name>devtalksio</name>
@@ -349,6 +349,262 @@
  </entry>
  
  <entry>
+   <title>What comes after REST</title>
+   <link href="http://devtalks.io/talks/rupy/2013/what-comes-after-rest.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/what-comes-after-rest</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Visualizing Garbage Collection in Ruby and Python</title>
+   <link href="http://devtalks.io/talks/rupy/2013/visualizing-garbage-collection-in-ruby-and-python.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/visualizing-garbage-collection-in-ruby-and-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Unlocking the Universe with Python and LSST</title>
+   <link href="http://devtalks.io/talks/rupy/2013/unlocking-the-universe-with-python-and-lsst.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/unlocking-the-universe-with-python-and-lsst</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The naming of ducks: where dynamic types meet smart conventions</title>
+   <link href="http://devtalks.io/talks/rupy/2013/the-naming-of-ducks-where-dynamic-types-meet-smart-conventions.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/the-naming-of-ducks-where-dynamic-types-meet-smart-conventions</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The future of web applications: client-side MVC Frameworks</title>
+   <link href="http://devtalks.io/talks/rupy/2013/the-future-of-web-applications-client-side-mvc-frameworks.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/the-future-of-web-applications-client-side-mvc-frameworks</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The Butterfly Effect</title>
+   <link href="http://devtalks.io/talks/rupy/2013/the-butterfly-effect.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/the-butterfly-effect</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The best programmer is a teacher</title>
+   <link href="http://devtalks.io/talks/rupy/2013/the-best-programmer-is-a-teacher.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/the-best-programmer-is-a-teacher</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Substance D: build civilized web applications</title>
+   <link href="http://devtalks.io/talks/rupy/2013/substance-d-build-civilized-web-applications.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/substance-d-build-civilized-web-applications</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Stack a platform with Linux containers</title>
+   <link href="http://devtalks.io/talks/rupy/2013/stack-a-platform-with-linux-containers.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/stack-a-platform-with-linux-containers</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Shit Happens...</title>
+   <link href="http://devtalks.io/talks/rupy/2013/shit-happens.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/shit-happens</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Scalling Prezi from 25 to 25 million users</title>
+   <link href="http://devtalks.io/talks/rupy/2013/scalling-prezi-from-25-to-25-million-users.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/scalling-prezi-from-25-to-25-million-users</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Ruby loves DDD</title>
+   <link href="http://devtalks.io/talks/rupy/2013/ruby-loves-ddd.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/ruby-loves-ddd</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Nobody Knows Rust</title>
+   <link href="http://devtalks.io/talks/rupy/2013/nobody-knows-rust.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/nobody-knows-rust</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Keynote - Clojure in 10 big ideas</title>
+   <link href="http://devtalks.io/talks/rupy/2013/keynote-clojure-in-10-big-ideas.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/keynote-clojure-in-10-big-ideas</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>IPython is not just about Python anymore</title>
+   <link href="http://devtalks.io/talks/rupy/2013/ipython-is-not-just-about-python-anymore.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/ipython-is-not-just-about-python-anymore</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Introduction to RubyMotion</title>
+   <link href="http://devtalks.io/talks/rupy/2013/introduction-to-rubymotion.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/introduction-to-rubymotion</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Introducing students to programming</title>
+   <link href="http://devtalks.io/talks/rupy/2013/introducing-students-to-programming.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/introducing-students-to-programming</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Introducing Docker, the open-source container engine</title>
+   <link href="http://devtalks.io/talks/rupy/2013/introducing-docker-the-open-source-container-engine.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/introducing-docker-the-open-source-container-engine</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Immutability in Clojure, Ruby, Javascript and Python</title>
+   <link href="http://devtalks.io/talks/rupy/2013/immutability-in-clojure-ruby-javascript-and-python.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/immutability-in-clojure-ruby-javascript-and-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>HTML Hypermedia APIs and Adaptive Web Design</title>
+   <link href="http://devtalks.io/talks/rupy/2013/html-hypermedia-apis-and-adaptive-web-design.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/html-hypermedia-apis-and-adaptive-web-design</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>How the Internet works</title>
+   <link href="http://devtalks.io/talks/rupy/2013/how-the-internet-works.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/how-the-internet-works</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Higher-Order Fun</title>
+   <link href="http://devtalks.io/talks/rupy/2013/higher-order-fun.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/higher-order-fun</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Explore your data</title>
+   <link href="http://devtalks.io/talks/rupy/2013/explore-your-data.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/explore-your-data</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Experimentation in porting the Go concurrency model to Python</title>
+   <link href="http://devtalks.io/talks/rupy/2013/experimentation-in-porting-the-go-concurrency-model-to-python.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/experimentation-in-porting-the-go-concurrency-model-to-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Data visualisation as an interface</title>
+   <link href="http://devtalks.io/talks/rupy/2013/data-visualisation-as-an-interface.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/data-visualisation-as-an-interface</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Data-centric security in Ruby (on Rails)</title>
+   <link href="http://devtalks.io/talks/rupy/2013/data-centric-security-in-ruby-on-rails.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/data-centric-security-in-ruby-on-rails</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Community Autonomy</title>
+   <link href="http://devtalks.io/talks/rupy/2013/community-autonomy.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/community-autonomy</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Building Ruby in Python</title>
+   <link href="http://devtalks.io/talks/rupy/2013/building-ruby-in-python.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/building-ruby-in-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Building a European Cloud</title>
+   <link href="http://devtalks.io/talks/rupy/2013/building-a-european-cloud.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/building-a-european-cloud</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Build Yrself Clean</title>
+   <link href="http://devtalks.io/talks/rupy/2013/build-yrself-clean.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/build-yrself-clean</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Bound by convention</title>
+   <link href="http://devtalks.io/talks/rupy/2013/bound-by-convention.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/bound-by-convention</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>10 warning signs to watch for to prevent project failure</title>
+   <link href="http://devtalks.io/talks/rupy/2013/10-warning-signs-to-watch-for-to-prevent-project-failure.html"/>
+   <updated>2013-10-11T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/rupy/2013/10-warning-signs-to-watch-for-to-prevent-project-failure</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Using the Microsoft Kinect with Javascript OR Sweatin' to the Web</title>
    <link href="http://devtalks.io/talks/jsconf-us/2013/using-the-microsoft-kinect-with-javascript-or-sweatin-to-the-web.html"/>
    <updated>2013-05-28T01:00:00+01:00</updated>
@@ -505,6 +761,262 @@
    <link href="http://devtalks.io/talks/oreilly-media-fluent/2013/everything-you-always-wanted-to-know-about-web-standards.html"/>
    <updated>2013-03-11T00:00:00+00:00</updated>
    <id>http://devtalks.io/talks/oreilly-media-fluent/2013/everything-you-always-wanted-to-know-about-web-standards</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Keynote</title>
+   <link href="http://devtalks.io/talks/rupy/2012/zed-a-shaw-keynote.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/zed-a-shaw-keynote</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Why should I care about Rails 4?</title>
+   <link href="http://devtalks.io/talks/rupy/2012/why-should-i-care-about-rails-4.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/why-should-i-care-about-rails-4</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>When not to use OO</title>
+   <link href="http://devtalks.io/talks/rupy/2012/when-not-to-use-oo.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/when-not-to-use-oo</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The Wonderful World Of Databases</title>
+   <link href="http://devtalks.io/talks/rupy/2012/the-wonderful-world-of-databases.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/the-wonderful-world-of-databases</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The Future of Development</title>
+   <link href="http://devtalks.io/talks/rupy/2012/the-future-of-development.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/the-future-of-development</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The Future of Deployment</title>
+   <link href="http://devtalks.io/talks/rupy/2012/the-future-of-deployment.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/the-future-of-deployment</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The Dynamic Nature of Graph Databases</title>
+   <link href="http://devtalks.io/talks/rupy/2012/the-dynamic-nature-of-graph-databases.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/the-dynamic-nature-of-graph-databases</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Steering the Rocket</title>
+   <link href="http://devtalks.io/talks/rupy/2012/steering-the-rocket.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/steering-the-rocket</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Single Page Applications with CoffeeScript</title>
+   <link href="http://devtalks.io/talks/rupy/2012/single-page-applications-with-coffeescript.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/single-page-applications-with-coffeescript</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Simplify Your Infrastructure with TorqueBox</title>
+   <link href="http://devtalks.io/talks/rupy/2012/simplify-your-infrastructure-with-torquebox.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/simplify-your-infrastructure-with-torquebox</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>RVM2: Python Version Manager</title>
+   <link href="http://devtalks.io/talks/rupy/2012/rvm2-python-version-manager.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/rvm2-python-version-manager</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Rust from Python and Ruby</title>
+   <link href="http://devtalks.io/talks/rupy/2012/rust-from-python-and-ruby.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/rust-from-python-and-ruby</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Running MRuby in a database</title>
+   <link href="http://devtalks.io/talks/rupy/2012/running-mruby-in-a-database.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/running-mruby-in-a-database</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Ruby and Elasticsearch</title>
+   <link href="http://devtalks.io/talks/rupy/2012/ruby-and-elasticsearch.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/ruby-and-elasticsearch</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Rippin' off Ruby</title>
+   <link href="http://devtalks.io/talks/rupy/2012/rippin-off-ruby.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/rippin-off-ruby</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Rails Girls - Giving tools for women to build their ideas</title>
+   <link href="http://devtalks.io/talks/rupy/2012/rails-girls-giving-tools-for-women-to-build-their-ideas.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/rails-girls-giving-tools-for-women-to-build-their-ideas</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Pyvfs / Peter Savelyev</title>
+   <link href="http://devtalks.io/talks/rupy/2012/peter-savelyev-pyvfs.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/peter-savelyev-pyvfs</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>JS - from good to great (an ode to assert)</title>
+   <link href="http://devtalks.io/talks/rupy/2012/js-from-good-to-great-an-ode-to-assert.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/js-from-good-to-great-an-ode-to-assert</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>JRuby - Industrial-Strength Ruby</title>
+   <link href="http://devtalks.io/talks/rupy/2012/jruby-industrial-strength-ruby.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/jruby-industrial-strength-ruby</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Implementing composite fields in Django</title>
+   <link href="http://devtalks.io/talks/rupy/2012/implementing-composite-fields-in-django.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/implementing-composite-fields-in-django</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>How to monitor search for new particles?</title>
+   <link href="http://devtalks.io/talks/rupy/2012/how-to-monitor-search-for-new-particles.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/how-to-monitor-search-for-new-particles</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Getting Fat</title>
+   <link href="http://devtalks.io/talks/rupy/2012/getting-fat.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/getting-fat</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Fly, You Tools!</title>
+   <link href="http://devtalks.io/talks/rupy/2012/fly-you-tools.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/fly-you-tools</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Extendable Django Apps / Honza kral</title>
+   <link href="http://devtalks.io/talks/rupy/2012/extendable-django-apps-honza-kral.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/extendable-django-apps-honza-kral</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Elixir - A modern approach to programming for the Erlang VM</title>
+   <link href="http://devtalks.io/talks/rupy/2012/elixir-a-modern-approach-to-programming-for-the-erlang-vm.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/elixir-a-modern-approach-to-programming-for-the-erlang-vm</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Don't use Ruby!</title>
+   <link href="http://devtalks.io/talks/rupy/2012/dont-use-ruby.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/dont-use-ruby</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>DELETE /ivory-tower</title>
+   <link href="http://devtalks.io/talks/rupy/2012/delete-ivory-tower.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/delete-ivory-tower</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Community FTW</title>
+   <link href="http://devtalks.io/talks/rupy/2012/community-ftw.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/community-ftw</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>CodernityDB - pure python NoSQL database</title>
+   <link href="http://devtalks.io/talks/rupy/2012/codernitydb-pure-python-nosql-database.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/codernitydb-pure-python-nosql-database</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Challenges in A/B Testing Mobile Native Apps</title>
+   <link href="http://devtalks.io/talks/rupy/2012/challenges-in-a-b-testing-mobile-native-apps.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/challenges-in-a-b-testing-mobile-native-apps</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Burn all the cores!</title>
+   <link href="http://devtalks.io/talks/rupy/2012/burn-all-the-cores.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/burn-all-the-cores</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>AngularJS</title>
+   <link href="http://devtalks.io/talks/rupy/2012/angular-js.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/rupy/2012/angular-js</id>
    <content type="html"></content>
  </entry>
  
