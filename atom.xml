@@ -4,7 +4,7 @@
  <title>devtalks.io</title>
  <link href="http://devtalks.io/atom.xml" rel="self"/>
  <link href="http://devtalks.io/"/>
- <updated>2014-05-05T18:33:04+01:00</updated>
+ <updated>2014-05-08T01:51:11+01:00</updated>
  <id>http://devtalks.io</id>
  <author>
    <name>devtalksio</name>
@@ -349,6 +349,142 @@
  </entry>
  
  <entry>
+   <title>Using the Microsoft Kinect with Javascript OR Sweatin' to the Web</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2013/using-the-microsoft-kinect-with-javascript-or-sweatin-to-the-web.html"/>
+   <updated>2013-05-28T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2013/using-the-microsoft-kinect-with-javascript-or-sweatin-to-the-web</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Toward a language-neutral browser VM</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2013/toward-a-language-neutral-browser-vm.html"/>
+   <updated>2013-05-28T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2013/toward-a-language-neutral-browser-vm</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Schema liberation with JSON and PLV8</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2013/schema-liberation-with-json-and-plv8.html"/>
+   <updated>2013-05-28T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2013/schema-liberation-with-json-and-plv8</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Optimizing for Developer Delight</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2013/optimizing-for-developer-delight.html"/>
+   <updated>2013-05-28T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2013/optimizing-for-developer-delight</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Mass Hysteria: Clients and Servers, Living Together</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2013/mass-hysteria-clients-and-servers-living-together.html"/>
+   <updated>2013-05-28T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2013/mass-hysteria-clients-and-servers-living-together</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Making WebGL Dance</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2013/making-webgl-dance.html"/>
+   <updated>2013-05-28T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2013/making-webgl-dance</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Live Recompilation of Running JS</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2013/live-recompilation-of-running-js.html"/>
+   <updated>2013-05-28T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2013/live-recompilation-of-running-js</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Lessons from the experimental edge of technology</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2013/lessons-from-the-experimental-edge-of-technology.html"/>
+   <updated>2013-05-28T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2013/lessons-from-the-experimental-edge-of-technology</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Learning New Words</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2013/learning-new-words.html"/>
+   <updated>2013-05-28T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2013/learning-new-words</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>JavaScript Masterclass: How you you go from being a good developer, to a great one?</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2013/javascript-masterclass-how-you-you-go-from-being-a-good-developer-to-a-great-one.html"/>
+   <updated>2013-05-28T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2013/javascript-masterclass-how-you-you-go-from-being-a-good-developer-to-a-great-one</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>JavaScript Journalism</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2013/javascript-journalism.html"/>
+   <updated>2013-05-28T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2013/javascript-journalism</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>JavaScript is Literature is JavaScript</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2013/javascript-is-literature-is-javascript.html"/>
+   <updated>2013-05-28T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2013/javascript-is-literature-is-javascript</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>For the love of style guides</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2013/for-the-love-of-style-guides.html"/>
+   <updated>2013-05-28T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2013/for-the-love-of-style-guides</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>#dadt (Dojo already did that)</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2013/dadt-dojo-already-did-that.html"/>
+   <updated>2013-05-28T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2013/dadt-dojo-already-did-that</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>CreativeJS - making art in the browser</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2013/creativejs-making-art-in-the-browser.html"/>
+   <updated>2013-05-28T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2013/creativejs-making-art-in-the-browser</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>BPM Detection with JavaScript</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2013/bpm-detection-with-javascript.html"/>
+   <updated>2013-05-28T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2013/bpm-detection-with-javascript</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>AI.js: Robots with Brains!</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2013/ai-js-robots-with-brains.html"/>
+   <updated>2013-05-28T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2013/ai-js-robots-with-brains</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Show, Don't Tell</title>
    <link href="http://devtalks.io/talks/oreilly-media-fluent/2013/show-dont-tell.html"/>
    <updated>2013-03-11T00:00:00+00:00</updated>
@@ -498,15 +634,6 @@
    <updated>2012-09-13T01:00:00+01:00</updated>
    <id>http://devtalks.io/talks/symfony-live-london/2012/in-depth-with-composer</id>
    <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>Effective Code Reviews</title>
-   <link href="http://devtalks.io/talks/symfony-live-london/2012/effective-code-reviews.html"/>
-   <updated>2012-09-13T01:00:00+01:00</updated>
-   <id>http://devtalks.io/talks/symfony-live-london/2012/effective-code-reviews</id>
-   <content type="html">&lt;p&gt;&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/14286582&quot; width=&quot;512&quot; height=&quot;421&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&quot; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&quot;margin-bottom:5px&quot;&gt; &lt;strong&gt; &lt;a href=&quot;https://fr.slideshare.net/proofek/effective-code-reviews&quot; title=&quot;Effective code reviews&quot; target=&quot;_blank&quot;&gt;Effective code reviews&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&quot;http://www.slideshare.net/proofek&quot; target=&quot;_blank&quot;&gt;Sebastian Marek&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt; &lt;/p&gt;
-</content>
  </entry>
  
  <entry>
@@ -682,6 +809,78 @@
    <link href="http://devtalks.io/talks/symfony-live-paris/2012/advanced-service-container-utilization.html"/>
    <updated>2012-06-06T01:00:00+01:00</updated>
    <id>http://devtalks.io/talks/symfony-live-paris/2012/advanced-service-container-utilization</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Thoughts on JavaScript, Lisp, and Play</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2012/thoughts-on-javascript-lisp-and-play.html"/>
+   <updated>2012-04-01T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2012/thoughts-on-javascript-lisp-and-play</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The Live Web, Drag and drop in the cloud</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2012/the-live-web-drag-and-drop-in-the-cloud.html"/>
+   <updated>2012-04-01T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2012/the-live-web-drag-and-drop-in-the-cloud</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Stranger in These Parts</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2012/stranger-in-these-parts.html"/>
+   <updated>2012-04-01T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2012/stranger-in-these-parts</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>River trail, Parallel Computing in JavaScript</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2012/river-trail-parallel-computing-in-javascript.html"/>
+   <updated>2012-04-01T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2012/river-trail-parallel-computing-in-javascript</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Build anything</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2012/remy-sharp-build-anything.html"/>
+   <updated>2012-04-01T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2012/remy-sharp-build-anything</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>One day of life in V8</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2012/one-day-of-life-in-v8.html"/>
+   <updated>2012-04-01T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2012/one-day-of-life-in-v8</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Mojito your stuff runs on both sides</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2012/mojito-your-stuff-runs-on-both-sides.html"/>
+   <updated>2012-04-01T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2012/mojito-your-stuff-runs-on-both-sides</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Repl.it</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2012/max-shawabkeh-repl-it.html"/>
+   <updated>2012-04-01T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2012/max-shawabkeh-repl-it</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>JavaScript Tooling</title>
+   <link href="http://devtalks.io/talks/jsconf-us/2012/javaScript-tooling.html"/>
+   <updated>2012-04-01T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/jsconf-us/2012/javaScript-tooling</id>
    <content type="html"></content>
  </entry>
  
