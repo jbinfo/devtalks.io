@@ -4,7 +4,7 @@
  <title>devtalks.io</title>
  <link href="http://devtalks.io/atom.xml" rel="self"/>
  <link href="http://devtalks.io/"/>
- <updated>2014-05-08T19:34:11+01:00</updated>
+ <updated>2014-05-10T02:07:54+01:00</updated>
  <id>http://devtalks.io</id>
  <author>
    <name>devtalksio</name>
@@ -21,10 +21,26 @@
  </entry>
  
  <entry>
+   <title>What Is Async, How Does It Work, And When Should I Use It?</title>
+   <link href="http://devtalks.io/talks/pycon/2014/what-is-async-how-does-it-work-and-when-should-i-use-it.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/what-is-async-how-does-it-work-and-when-should-i-use-it</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Upgrade your Web Development Toolchain</title>
    <link href="http://devtalks.io/talks/pycon/2014/upgrade-your-web-development-toolchain.html"/>
    <updated>2014-04-09T01:00:00+01:00</updated>
    <id>http://devtalks.io/talks/pycon/2014/upgrade-your-web-development-toolchain</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Twisted Mixing</title>
+   <link href="http://devtalks.io/talks/pycon/2014/twisted-mixing.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/twisted-mixing</id>
    <content type="html"></content>
  </entry>
  
@@ -69,10 +85,26 @@
  </entry>
  
  <entry>
+   <title>The Day of the EXE Is Upon Us</title>
+   <link href="http://devtalks.io/talks/pycon/2014/the-day-of-the-exe-is-upon-us.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/the-day-of-the-exe-is-upon-us</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Teaching Python: To Infinity and Beyond</title>
    <link href="http://devtalks.io/talks/pycon/2014/teaching-python-to-infinity-and-beyond.html"/>
    <updated>2014-04-09T01:00:00+01:00</updated>
    <id>http://devtalks.io/talks/pycon/2014/teaching-python-to-infinity-and-beyond</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>TDD for web applications, from scratch</title>
+   <link href="http://devtalks.io/talks/pycon/2014/tdd-for-web-applications-from-scratch.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/tdd-for-web-applications-from-scratch</id>
    <content type="html"></content>
  </entry>
  
@@ -85,10 +117,42 @@
  </entry>
  
  <entry>
+   <title>Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10</title>
+   <link href="http://devtalks.io/talks/pycon/2014/shiny-lets-be-bad-guys-exploiting-and-mitigating-the-top-10.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/shiny-lets-be-bad-guys-exploiting-and-mitigating-the-top-10</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>See Docs Run. Run, Docs, Run!</title>
+   <link href="http://devtalks.io/talks/pycon/2014/see-docs-run-run-docs-run.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/see-docs-run-run-docs-run</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Search 101: An Introduction to Information Retrieval</title>
    <link href="http://devtalks.io/talks/pycon/2014/search-101-an-introduction-to-information-retrieval.html"/>
    <updated>2014-04-09T01:00:00+01:00</updated>
    <id>http://devtalks.io/talks/pycon/2014/search-101-an-introduction-to-information-retrieval</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Realtime predictive analytics using scikit-learn & RabbitMQ</title>
+   <link href="http://devtalks.io/talks/pycon/2014/realtime-predictive-analytics-using-scikit-learn-rabbitmq.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/realtime-predictive-analytics-using-scikit-learn-rabbitmq</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Python Scraping Showdown: A performance and accuracy review</title>
+   <link href="http://devtalks.io/talks/pycon/2014/python-scraping-showdown-a-performance-and-accuracy-review.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/python-scraping-showdown-a-performance-and-accuracy-review</id>
    <content type="html"></content>
  </entry>
  
@@ -117,10 +181,122 @@
  </entry>
  
  <entry>
+   <title>Python Epiphanies</title>
+   <link href="http://devtalks.io/talks/pycon/2014/python-epiphanies.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/python-epiphanies</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Python 3/2 Web Development with Pyramid</title>
+   <link href="http://devtalks.io/talks/pycon/2014/python-3-2-web-development-with-pyramid.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/python-3-2-web-development-with-pyramid</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Puppet Modules: Apps for Ops</title>
+   <link href="http://devtalks.io/talks/pycon/2014/puppet-modules-apps-for-ops.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/puppet-modules-apps-for-ops</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>PostgreSQL Proficiency for Python People</title>
+   <link href="http://devtalks.io/talks/pycon/2014/postgresql-proficiency-for-python-people.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/postgresql-proficiency-for-python-people</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>PostgreSQL is Web Scale (Really :) )</title>
+   <link href="http://devtalks.io/talks/pycon/2014/postgresql-is-web-scale-really.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/postgresql-is-web-scale-really</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Pickles are for Delis, not Software</title>
+   <link href="http://devtalks.io/talks/pycon/2014/pickles-are-for-delis-not-software.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/pickles-are-for-delis-not-software</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>mrjob: Snakes on a Hadoop</title>
+   <link href="http://devtalks.io/talks/pycon/2014/mrjob-snakes-on-a-hadoop.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/mrjob-snakes-on-a-hadoop</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Mining Social Web APIs with IPython Notebook</title>
+   <link href="http://devtalks.io/talks/pycon/2014/mining-social-web-apis-with-ipython-notebook.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/mining-social-web-apis-with-ipython-notebook</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Let's Learn Twisted Python</title>
+   <link href="http://devtalks.io/talks/pycon/2014/lets-learn-twisted-python.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/lets-learn-twisted-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Kneel And Disconnect: Getting The Fastest Connection Out Of A Host</title>
+   <link href="http://devtalks.io/talks/pycon/2014/kneel-and-disconnect-getting-the-fastest-connection-out-of-a-host.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/kneel-and-disconnect-getting-the-fastest-connection-out-of-a-host</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Keynote</title>
+   <link href="http://devtalks.io/talks/pycon/2014/john-perry-barlow-keynote.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/john-perry-barlow-keynote</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>IPython in depth: high productivity interactive and parallel python</title>
+   <link href="http://devtalks.io/talks/pycon/2014/ipython-in-depth-high-productivity-interactive-and-parallel-python.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/ipython-in-depth-high-productivity-interactive-and-parallel-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Introduction to Web (and data!) Scraping with Python</title>
+   <link href="http://devtalks.io/talks/pycon/2014/introduction-to-web-and-data-scraping-with-python.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/introduction-to-web-and-data-scraping-with-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Introduction to SQLAlchemy</title>
    <link href="http://devtalks.io/talks/pycon/2014/introduction-to-sqlalchemy.html"/>
    <updated>2014-04-09T01:00:00+01:00</updated>
    <id>http://devtalks.io/talks/pycon/2014/introduction-to-sqlalchemy</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Introduction to Regular Expressions</title>
+   <link href="http://devtalks.io/talks/pycon/2014/introduction-to-regular-expressions.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/introduction-to-regular-expressions</id>
    <content type="html"></content>
  </entry>
  
@@ -141,10 +317,34 @@
  </entry>
  
  <entry>
+   <title>Improving automated testing with py.test</title>
+   <link href="http://devtalks.io/talks/pycon/2014/improving-automated-testing-with-py-test.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/improving-automated-testing-with-py-test</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Import-ant Decisions</title>
    <link href="http://devtalks.io/talks/pycon/2014/import-ant-decisions.html"/>
    <updated>2014-04-09T01:00:00+01:00</updated>
    <id>http://devtalks.io/talks/pycon/2014/import-ant-decisions</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>How to Get Started with Machine Learning</title>
+   <link href="http://devtalks.io/talks/pycon/2014/how-to-get-started-with-machine-learning.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/how-to-get-started-with-machine-learning</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>How to formulate a (science) problem and analyze it using Python code</title>
+   <link href="http://devtalks.io/talks/pycon/2014/how-to-formulate-a-science-problem-and-analyze-it-using-python-code.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/how-to-formulate-a-science-problem-and-analyze-it-using-python-code</id>
    <content type="html"></content>
  </entry>
  
@@ -157,10 +357,66 @@
  </entry>
  
  <entry>
+   <title>Hands-on with Pydata: how to build a minimal</title>
+   <link href="http://devtalks.io/talks/pycon/2014/hands-on-with-pydata-how-to-build-a-minimal.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/hands-on-with-pydata-how-to-build-a-minimal</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Hands-on Intermediate Python</title>
+   <link href="http://devtalks.io/talks/pycon/2014/hands-on-intermediate-python.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/hands-on-intermediate-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Hands-on Beginning Python</title>
+   <link href="http://devtalks.io/talks/pycon/2014/hands-on-beginning-python.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/hands-on-beginning-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Keynote 05</title>
+   <link href="http://devtalks.io/talks/pycon/2014/guido-van-rossum-keynote-05.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/guido-van-rossum-keynote-05</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Getting Started with SaltStack</title>
+   <link href="http://devtalks.io/talks/pycon/2014/getting-started-with-saltstack.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/getting-started-with-saltstack</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Getting Started with Django, a crash course</title>
+   <link href="http://devtalks.io/talks/pycon/2014/getting-started-with-django-a-crash-course.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/getting-started-with-django-a-crash-course</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Getting Hy on Python: How to implement a Lisp front-end to Python</title>
    <link href="http://devtalks.io/talks/pycon/2014/getting-hy-on-python-how-to-implement-a-lisp-front-end-to-python.html"/>
    <updated>2014-04-09T01:00:00+01:00</updated>
    <id>http://devtalks.io/talks/pycon/2014/getting-hy-on-python-how-to-implement-a-lisp-front-end-to-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Generators: The Final Frontier</title>
+   <link href="http://devtalks.io/talks/pycon/2014/generators-the-final-frontier.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/generators-the-final-frontier</id>
    <content type="html"></content>
  </entry>
  
@@ -173,6 +429,30 @@
  </entry>
  
  <entry>
+   <title>For Lack of a Better Name(server): DNS Explained</title>
+   <link href="http://devtalks.io/talks/pycon/2014/for-lack-of-a-better-nameserver-dns-explained.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/for-lack-of-a-better-nameserver-dns-explained</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Flask by Example</title>
+   <link href="http://devtalks.io/talks/pycon/2014/flask-by-example.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/flask-by-example</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Faster Python Programs through Optimization</title>
+   <link href="http://devtalks.io/talks/pycon/2014/faster-python-programs-through-optimization.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/faster-python-programs-through-optimization</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Fast Python, Slow Python</title>
    <link href="http://devtalks.io/talks/pycon/2014/fast-python-slow-python.html"/>
    <updated>2014-04-09T01:00:00+01:00</updated>
@@ -181,10 +461,66 @@
  </entry>
  
  <entry>
+   <title>Fan-in and Fan-out: The crucial components of concurrency</title>
+   <link href="http://devtalks.io/talks/pycon/2014/fan-in-and-fan-out-the-crucial-components-of-concurrency.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/fan-in-and-fan-out-the-crucial-components-of-concurrency</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Exploring Machine Learning with Scikit-learn</title>
+   <link href="http://devtalks.io/talks/pycon/2014/exploring-machine-learning-with-scikit-learn.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/exploring-machine-learning-with-scikit-learn</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Enough Machine Learning to Make Hacker News Readable Again</title>
+   <link href="http://devtalks.io/talks/pycon/2014/enough-machine-learning-to-make-hacker-news-readable-again.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/enough-machine-learning-to-make-hacker-news-readable-again</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Dynamics and Control with Python</title>
    <link href="http://devtalks.io/talks/pycon/2014/dynamics-and-control-with-python.html"/>
    <updated>2014-04-09T01:00:00+01:00</updated>
    <id>http://devtalks.io/talks/pycon/2014/dynamics-and-control-with-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Django for Web Designers and Front End Developers</title>
+   <link href="http://devtalks.io/talks/pycon/2014/django-for-web-designers-and-front-end-developers.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/django-for-web-designers-and-front-end-developers</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Diving deeper into Machine Learning with Scikit-learn</title>
+   <link href="http://devtalks.io/talks/pycon/2014/diving-deeper-into-machine-learning-with-scikit-learn.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/diving-deeper-into-machine-learning-with-scikit-learn</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Distributed task processing using Celery</title>
+   <link href="http://devtalks.io/talks/pycon/2014/distributed-task-processing-using-celery.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/distributed-task-processing-using-celery</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Distributed Computing Is Hard, Lets Go Shopping</title>
+   <link href="http://devtalks.io/talks/pycon/2014/distributed-computing-is-hard-lets-go-shopping.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/distributed-computing-is-hard-lets-go-shopping</id>
    <content type="html"></content>
  </entry>
  
@@ -205,10 +541,58 @@
  </entry>
  
  <entry>
+   <title>Descriptors and Metaclasses - Python's More Advanced Features</title>
+   <link href="http://devtalks.io/talks/pycon/2014/descriptors-and-metaclasses-pythons-more-advanced-features.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/descriptors-and-metaclasses-pythons-more-advanced-features</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Deliver Your Software In An Envelope</title>
+   <link href="http://devtalks.io/talks/pycon/2014/deliver-your-software-in-an-envelope.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/deliver-your-software-in-an-envelope</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Decorators: A Powerful Weapon in your Python Arsenal</title>
+   <link href="http://devtalks.io/talks/pycon/2014/decorators-a-powerful-weapon-in-your-python-arsenal.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/decorators-a-powerful-weapon-in-your-python-arsenal</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Data Wrangling for Kaggle Data Science Competitions -- An etude</title>
+   <link href="http://devtalks.io/talks/pycon/2014/data-wrangling-for-kaggle-data-science-competitions-an-etude.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/data-wrangling-for-kaggle-data-science-competitions-an-etude</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Contribute with me! Getting started with open source development</title>
+   <link href="http://devtalks.io/talks/pycon/2014/contribute-with-me-getting-started-with-open-source-development.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/contribute-with-me-getting-started-with-open-source-development</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Computer science fundamentals for self-taught programmers</title>
    <link href="http://devtalks.io/talks/pycon/2014/computer-science-fundamentals-for-self-taught-programmers.html"/>
    <updated>2014-04-09T01:00:00+01:00</updated>
    <id>http://devtalks.io/talks/pycon/2014/computer-science-fundamentals-for-self-taught-programmers</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Character encoding and Unicode in Python</title>
+   <link href="http://devtalks.io/talks/pycon/2014/character-encoding-and-unicode-in-python.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/character-encoding-and-unicode-in-python</id>
    <content type="html"></content>
  </entry>
  
@@ -221,6 +605,46 @@
  </entry>
  
  <entry>
+   <title>Cache me if you can: memcached, caching patterns and best practices</title>
+   <link href="http://devtalks.io/talks/pycon/2014/cache-me-if-you-can-memcached-caching-patterns-and-best-practices.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/cache-me-if-you-can-memcached-caching-patterns-and-best-practices</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Building and breaking a Python sandbox</title>
+   <link href="http://devtalks.io/talks/pycon/2014/building-and-breaking-a-python-sandbox.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/building-and-breaking-a-python-sandbox</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Build your own PiDoorbell! Home Automation with Python</title>
+   <link href="http://devtalks.io/talks/pycon/2014/build-your-own-pidoorbell-home-automation-with-python.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/build-your-own-pidoorbell-home-automation-with-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Blending art, technology, and light - interactive Python</title>
+   <link href="http://devtalks.io/talks/pycon/2014/blending-art-technology-and-light-interactive-python.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/blending-art-technology-and-light-interactive-python</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Beyond Defaults: Creating Polished Visualizations Using Matplotlib</title>
+   <link href="http://devtalks.io/talks/pycon/2014/beyond-defaults-creating-polished-visualizations-using-matplotlib.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/beyond-defaults-creating-polished-visualizations-using-matplotlib</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Bayesian statistics made simple</title>
    <link href="http://devtalks.io/talks/pycon/2014/bayesian-statistics-made-simple.html"/>
    <updated>2014-04-09T01:00:00+01:00</updated>
@@ -229,10 +653,50 @@
  </entry>
  
  <entry>
+   <title>Ansible - Python-Powered Radically Simple IT Automation</title>
+   <link href="http://devtalks.io/talks/pycon/2014/ansible-python-powered-radically-simple-it-automation.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/ansible-python-powered-radically-simple-it-automation</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>An Introduction to Twisted</title>
+   <link href="http://devtalks.io/talks/pycon/2014/an-introduction-to-twisted.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/an-introduction-to-twisted</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
    <title>Advanced methods for creating decorators</title>
    <link href="http://devtalks.io/talks/pycon/2014/advanced-methods-for-creating-decorators.html"/>
    <updated>2014-04-09T01:00:00+01:00</updated>
    <id>http://devtalks.io/talks/pycon/2014/advanced-methods-for-creating-decorators</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>A hands-on introduction to Python for beginning programmers</title>
+   <link href="http://devtalks.io/talks/pycon/2014/a-hands-on-introduction-to-python-for-beginning-programmers.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/a-hands-on-introduction-to-python-for-beginning-programmers</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>2D/3D graphics with Python on mobile platforms</title>
+   <link href="http://devtalks.io/talks/pycon/2014/2d-3d-graphics-with-python-on-mobile-platforms.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/2d-3d-graphics-with-python-on-mobile-platforms</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>0 to 00111100 with web2py</title>
+   <link href="http://devtalks.io/talks/pycon/2014/0-to-00111100-with-web2py.html"/>
+   <updated>2014-04-09T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/pycon/2014/0-to-00111100-with-web2py</id>
    <content type="html"></content>
  </entry>
  
@@ -977,6 +1441,14 @@
    <link href="http://devtalks.io/talks/rupy/2012/delete-ivory-tower.html"/>
    <updated>2012-11-16T00:00:00+00:00</updated>
    <id>http://devtalks.io/talks/rupy/2012/delete-ivory-tower</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Community FTW</title>
+   <link href="http://devtalks.io/talks/ruby-conf/2012/community-ftw.html"/>
+   <updated>2012-11-16T00:00:00+00:00</updated>
+   <id>http://devtalks.io/talks/ruby-conf/2012/community-ftw</id>
    <content type="html"></content>
  </entry>
  
