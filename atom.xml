@@ -4,7 +4,7 @@
  <title>devtalks.io</title>
  <link href="http://devtalks.io/atom.xml" rel="self"/>
  <link href="http://devtalks.io/"/>
- <updated>2014-05-12T21:50:55+01:00</updated>
+ <updated>2014-05-12T22:49:40+01:00</updated>
  <id>http://devtalks.io</id>
  <author>
    <name>devtalksio</name>
@@ -1373,150 +1373,6 @@
  </entry>
  
  <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%289e+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (9e copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%2842e+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (42e copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%2841re+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (41re copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%2840e+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (40e copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%2839e+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (39e copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%2838e+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (38e copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%2837e+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (37e copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%2836e+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (36e copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%2835e+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (35e copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%2834e+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (34e copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%2833e+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (33e copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%2832e+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (32e copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%2831re+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (31re copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%2829e+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (29e copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%2823e+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (23e copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%2821re+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (21re copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%2815e+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (15e copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>JavaScript Tooling</title>
-   <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling+%2811e+copie%29.html"/>
-   <updated>2013-04-24T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/chefconf-san-francisco/2013/javaScript-tooling (11e copie)</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
    <title>How To Let Devs Do Your Job For You</title>
    <link href="http://devtalks.io/talks/chefconf-san-francisco/2013/how-to-let-devs-do-your-job-for-you.html"/>
    <updated>2013-04-24T00:00:00+00:00</updated>
@@ -1990,17 +1846,17 @@
  
  <entry>
    <title>Community FTW</title>
-   <link href="http://devtalks.io/talks/ruby-conf/2012/community-ftw.html"/>
+   <link href="http://devtalks.io/talks/rupy/2012/community-ftw.html"/>
    <updated>2012-11-16T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/ruby-conf/2012/community-ftw</id>
+   <id>http://devtalks.io/talks/rupy/2012/community-ftw</id>
    <content type="html"></content>
  </entry>
  
  <entry>
    <title>Community FTW</title>
-   <link href="http://devtalks.io/talks/rupy/2012/community-ftw.html"/>
+   <link href="http://devtalks.io/talks/ruby-conf/2012/community-ftw.html"/>
    <updated>2012-11-16T00:00:00+00:00</updated>
-   <id>http://devtalks.io/talks/rupy/2012/community-ftw</id>
+   <id>http://devtalks.io/talks/ruby-conf/2012/community-ftw</id>
    <content type="html"></content>
  </entry>
  
