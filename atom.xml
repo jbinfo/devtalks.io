@@ -4,13 +4,557 @@
  <title>devtalks.io</title>
  <link href="http://devtalks.io/atom.xml" rel="self"/>
  <link href="http://devtalks.io/"/>
- <updated>2014-05-12T22:49:40+01:00</updated>
+ <updated>2014-05-17T23:33:16+01:00</updated>
  <id>http://devtalks.io</id>
  <author>
    <name>devtalksio</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Windows Web Server Management With ASP.NET</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/windows-web-server-management-with-aspnet.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/windows-web-server-management-with-aspnet</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Use Chef To Roll Your Own AWS RDS, SQS, Or Other SaaS</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/use-chef-to-roll-your-own-aws-rds-sqs-or-other-saas.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/use-chef-to-roll-your-own-aws-rds-sqs-or-other-saas</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>There, I Fixed it! - Building Humane Automation Systems</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/there-i-fixed-it-building-humane-automation-systems.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/there-i-fixed-it-building-humane-automation-systems</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The Whole Stack And Nothing But The Stack</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/the-whole-stack-and-nothing-but-the-stack.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/the-whole-stack-and-nothing-but-the-stack</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The Promise Theory</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/the-promise-theory.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/the-promise-theory</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The Once & Future Chef</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/the-once-future-chef.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/the-once-future-chef</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The Fellowship of Chef, Our Three Year Journey with Chef</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/the-fellowship-of-chef-our-three-year-journey-with-chef.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/the-fellowship-of-chef-our-three-year-journey-with-chef</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The DevOps Roller Coaster</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/the-devops-roller-coaster.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/the-devops-roller-coaster</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>The Berkshelf Vision</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/the-berkshelf-vision.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/the-berkshelf-vision</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Test Kitchen: One Year Later and the Future</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/test-kitchen-one-year-later-and-the-future.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/test-kitchen-one-year-later-and-the-future</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Supporting Community Cookbooks: Patterns and Practices</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/supporting-community-cookbooks-patterns-and-practices.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/supporting-community-cookbooks-patterns-and-practices</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Stupid Boot Tricks</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/stupid-boot-tricks.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/stupid-boot-tricks</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Spice Up Your Recipes With Chef Sugar</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/spice-up-your-recipes-with-chef-sugar.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/spice-up-your-recipes-with-chef-sugar</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Serverspec: The Simplest Server Testing Tool Ever</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/serverspec-the-simplest-server-testing-tool-ever.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/serverspec-the-simplest-server-testing-tool-ever</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Pursuing New Ideas in a Large Enterprise</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/pursuing-new-ideas-in-a-large-enterprise.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/pursuing-new-ideas-in-a-large-enterprise</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>PowerChef - Enhanced PowerShell Integration for Chef Recipes</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/powerchef-enhanced-powershell-integration-for-chef-recipes.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/powerchef-enhanced-powershell-integration-for-chef-recipes</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Poise: Reusable Cookbook Patterns</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/poise-reusable-cookbook-patterns.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/poise-reusable-cookbook-patterns</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Orchestration in Meatspace</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/orchestration-in-meatspace.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/orchestration-in-meatspace</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Ops and Chefs</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/ops-and-chefs.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/ops-and-chefs</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Moving Data Centers Is Scary</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/moving-data-centers-is-scary.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/moving-data-centers-is-scary</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Mind the Gap: Deployments With Chef In Unforgiving Environments</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/mind-the-gap-deployments-with-chef-in-unforgiving-environments.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/mind-the-gap-deployments-with-chef-in-unforgiving-environments</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Microsoft Azure Group</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/microsoft-azure-group.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/microsoft-azure-group</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Demo Session</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/mandi-walls-demo-session.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/mandi-walls-demo-session</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Managing Many Customers</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/managing-many-customers.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/managing-many-customers</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Making a Bet on Open</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/making-a-bet-on-open.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/making-a-bet-on-open</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Kanban will save You...! Will it?</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/kanban-will-save-you-will-it.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/kanban-will-save-you-will-it</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Implementing Continuous Delivery In Chef</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/implementing-continuous-delivery-in-chef.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/implementing-continuous-delivery-in-chef</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>IBM DevOps For Cloud Delivers Smarter Apps</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/ibm-devops-for-cloud-delivers-smarter-apps.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/ibm-devops-for-cloud-delivers-smarter-apps</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Hunting the DevOps Whale in Large Enterprises</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/hunting-the-devops-whale-in-large-enterprises.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/hunting-the-devops-whale-in-large-enterprises</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>How To Mock A Mockingbird - Testing Dynamic Infrastructure</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/how-to-mock-a-mockingbird-testing-dynamic-infrastructure.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/how-to-mock-a-mockingbird-testing-dynamic-infrastructure</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>How to Build, Deploy & Manage Modern Applications</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/how-to-build-deploy-manage-modern-applications.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/how-to-build-deploy-manage-modern-applications</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>How Do We Better Sell DevOps?</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/how-do-we-better-sell-devops.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/how-do-we-better-sell-devops</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Get Up Again (Over And Over): Learning And Relearning With Chef</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/get-up-again-over-and-over-learning-and-relearning-with-chef.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/get-up-again-over-and-over-learning-and-relearning-with-chef</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>From Chef 0.6 to 11.6: Engine Yard Steps Into A Time Machine</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/from-chef-06-to-116-engine-yard-steps-into-a-time-machine.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/from-chef-06-to-116-engine-yard-steps-into-a-time-machine</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Foreman And Chef Integration</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/foreman-and-chef-integration.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/foreman-and-chef-integration</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Everything As A Cookbook: Service Oriented Thinking for Your Code</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/everything-as-a-cookbook-service-oriented-thinking-for-your-code.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/everything-as-a-cookbook-service-oriented-thinking-for-your-code</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Enterprise DevOps: Fast Is As Slow As We Go</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/enterprise-devops-fast-is-as-slow-as-we-go.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/enterprise-devops-fast-is-as-slow-as-we-go</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>DevOps for University Students</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/devops-for-university-students.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/devops-for-university-students</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>DevOps Culture and Practices To Create Flow</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/devops-culture-and-practices-to-create-flow.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/devops-culture-and-practices-to-create-flow</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Delivering at the Speed of Tomorrow with Cloud</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/delivering-at-the-speed-of-tomorrow-with-cloud.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/delivering-at-the-speed-of-tomorrow-with-cloud</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Cynic To Believer - A CD Story w/Chef</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/cynic-to-believer-a-cd-story-w-chef.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/cynic-to-believer-a-cd-story-w-chef</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Cycle Computing</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/cycle-computing.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/cycle-computing</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Customizing Chef for Fun and Profit</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/customizing-chef-for-fun-and-profit.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/customizing-chef-for-fun-and-profit</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Cooking With Juniper</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/cooking-with-juniper.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/cooking-with-juniper</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Cooking With Google Compute Engine</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/cooking-with-google-compute-engine.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/cooking-with-google-compute-engine</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Cooking In The Cloud</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/cooking-in-the-cloud.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/cooking-in-the-cloud</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Cookbook Versioning: When Berkshelf Isn't Enough</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/cookbook-versioning-when-berkshelf-isnt-enough.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/cookbook-versioning-when-berkshelf-isnt-enough</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Cook Up Your Own PaaS With Chef And Docker</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/cook-up-your-own-paas-with-chef-and-docker.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/cook-up-your-own-paas-with-chef-and-docker</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Continuous Converged Delivery</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/continuous-converged-delivery.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/continuous-converged-delivery</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Chef: Whip It Good</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/chef-whip-it-good.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/chef-whip-it-good</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Chef TDD or How I Learned To Stop Worrying And Love To Test</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/chef-tdd-or-how-i-learned-to-stop-worrying-and-love-to-test.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/chef-tdd-or-how-i-learned-to-stop-worrying-and-love-to-test</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Chef Supermarket</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/chef-supermarket.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/chef-supermarket</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Chef @ Scale Patterns For Success, Take One!</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/chef-scale-patterns-for-success-take-one.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/chef-scale-patterns-for-success-take-one</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Chef Metal: Automate Your Whole Cluster In Chef</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/chef-metal-automate-your-whole-cluster-in-chef.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/chef-metal-automate-your-whole-cluster-in-chef</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Chef and Docker</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/chef-and-docker.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/chef-and-docker</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Chef And Apache CloudStack</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/chef-and-apache-cloudstack.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/chef-and-apache-cloudstack</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Chef Actions</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/chef-actions.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/chef-actions</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Case Study: Implementing A Sane Hybrid Cloud Strategy With Chef</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/case-study-implementing-a-sane-hybrid-cloud-strategy-with-chef.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/case-study-implementing-a-sane-hybrid-cloud-strategy-with-chef</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Bulletproofing Attributes With Validation And Tracing</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/bulletproofing-attributes-with-validation-and-tracing.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/bulletproofing-attributes-with-validation-and-tracing</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Building Authoritative Resource Sets</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/building-authoritative-resource-sets.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/building-authoritative-resource-sets</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Becoming Fearlessly Definite & Resourceful</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/becoming-fearlessly-definite-resourceful.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/becoming-fearlessly-definite-resourceful</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Keynote Session</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/barry-crist-keynote-session.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/barry-crist-keynote-session</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>AWS OpsWorks Under The Hood</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/aws-opsworks-under-the-hood.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/aws-opsworks-under-the-hood</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Awesome Community Chefs</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/awesome-community-chefs.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/awesome-community-chefs</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Automation: What to expect When Expecting Your Interactive Installers</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/automation-what-to-expect-when-expecting-your-interactive-installers.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/automation-what-to-expect-when-expecting-your-interactive-installers</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Ancestry's Use Of Chef For Windows: Phase 2</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/ancestrys-use-of-chef-for-windows-phase-2.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/ancestrys-use-of-chef-for-windows-phase-2</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Keynote Session</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/adam-jacob-keynote-session.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/adam-jacob-keynote-session</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>A Tale Of Two Workflows</title>
+   <link href="http://devtalks.io/talks/chefconf-san-francisco/2014/a-tale-of-two-workflows.html"/>
+   <updated>2014-04-15T01:00:00+01:00</updated>
+   <id>http://devtalks.io/talks/chefconf-san-francisco/2014/a-tale-of-two-workflows</id>
+   <content type="html"></content>
+ </entry>
  
  <entry>
    <title>Which messaging layer should you use if you want to build</title>
